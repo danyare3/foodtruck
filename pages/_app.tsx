@@ -60,4 +60,6 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   );
 };
 
-export default App   
+export default App  
+
+/* Daniel arenas */
