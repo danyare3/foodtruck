@@ -7,7 +7,7 @@ import { INFORMATION } from '../app/constants';
 
 const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   return (
-    <ChakraProvider theme={theme}>
+    <ChakraProvider theme={theme}> 
     <Box padding={4}>
        <Container backgroundColor='gray.100' borderRadius='sm' boxShadown='md' maxWidth='container.xl' padding={4}>
         <Stack spacing={8}>
