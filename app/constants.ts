@@ -1,6 +1,6 @@
 export const INFORMATION = {
     avatar: "/assets/avatar2.jpg ",
-    banner: "/assets/banner1.jpg ",
+    banner: "/assets/banner.jpg ",
     title:'Rapid FoodTruck S/c.',
     description:'Lo Mejor de la Comida Rapida ',
     phone: `+584247380853`,
