@@ -47,9 +47,9 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
         <Divider marginY={4} />
           {/* Inicio de copyright - Cambiar el contenido de los mismos viola el contenido de los terminos de licencia */}
           <Text textAlign="center">
-            © Copyright {new Date().getFullYear()}. Hecho con cariño por{" "}
+            © Copyright {new Date().getFullYear()}. Daniel Arenas{" "}
             <Link isExternal href={`https://wa.me/584247380853`}>
-              PaDaLum ⚛ 
+            ⚛ PaDaLum  
             </Link>
             .
           </Text>
